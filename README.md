@@ -1,1 +1,1 @@
-# my experiments with go language
+# My initial experiments with Go!
